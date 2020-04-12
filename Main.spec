@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['C:\\Users\\PC\\Desktop\\Python-denemeler\\hazır\\Export\\Proje\\Main.py'],
-             pathex=['C:\\Users\\PC\\Desktop\\Python-denemeler\\hazır\\Proje\\Export'],
+a = Analysis(['C:\\Users\\PC\\Desktop\\Python-denemeler\\hazır\\Proje\\Main.py'],
+             pathex=['C:\\Users\\PC\\Desktop\\Python-denemeler\\hazır\\export'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , icon='C:\\Users\\PC\\Desktop\\Python-denemeler\\hazır\\Export\\Proje\\resources\\logo.ico')
+          console=False , icon='C:\\Users\\PC\\Desktop\\Python-denemeler\\resources\\logo.ico')

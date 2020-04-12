@@ -42,7 +42,6 @@ missing module named multiprocessing.get_start_method - imported by multiprocess
 missing module named Queue - imported by mysql.connector.pooling (optional)
 missing module named _uuid - imported by uuid (optional)
 missing module named ConfigParser - imported by mysql.connector.optionfiles (conditional)
-missing module named idna - imported by dns.name (optional)
 missing module named 'ecdsa.keys' - imported by dns.dnssec (optional)
 missing module named 'ecdsa.ellipticcurve' - imported by dns.dnssec (optional)
 missing module named 'ecdsa.ecdsa' - imported by dns.dnssec (optional)
